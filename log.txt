@@ -1,0 +1,100 @@
+[«·Œ„Ì” ‰Ê›„»— 8 02:08:17 2018] Debug: web version :  "3.0.4.4" current version  3.0.4.4
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:08:21 2018] Debug: default Language: "ar"
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:08:21 2018] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:08:24 2018] Debug: FontLoader Loaded
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:08:30 2018] Debug: async models initialize
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:09:06 2018] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:09:37 2018] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:09:37 2018] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:09:37 2018] Debug: Worker Stopped
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:09:37 2018] Debug: IE Thread Exitted: 0xd04
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:10:21 2018] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:31:49 2018] Debug: web version :  "3.0.4.4" current version  3.0.4.4
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:31:50 2018] Debug: default Language: "ar"
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:31:50 2018] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:31:53 2018] Debug: async models initialize
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:31:55 2018] Debug: FontLoader Loaded
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:32:06 2018] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:32:20 2018] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:32:47 2018] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:32:47 2018] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:39:27 2018] Debug: Flood : 1
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:39:27 2018] Debug: Flood Pid : 12792
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:39:29 2018] Debug: Prologue Start
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:39:36 2018] Debug: [+] InjectionCore : GenPrologue
+
+
+
+[«·Œ„Ì” ‰Ê›„»— 8 02:39:36 2018] Debug: "[+] InjectionCore : Inj Success Status STATUS_SUCCESS\r\n"
+
+
+
